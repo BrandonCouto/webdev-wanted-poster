@@ -1,0 +1,22 @@
+div {
+    text-align: center;
+    overflow: hidden;
+    border: 4px double rgb(6, 4, 150);
+    width: 300px;
+    background-color: rgb(89, 208, 255)
+}   
+h1 {
+    font-family: Impact;
+    text-decoration: underline overline;
+    margin: 10px;
+    font-size: 50pt;
+}
+h3 {
+    font-family: Impact; 
+     margin:  10px;
+}
+p { 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+
+}
